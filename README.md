@@ -7,5 +7,6 @@ While learning about MCMC algorithms, I decided to code up and replicate some re
 [1] http://twiecki.github.io/blog/2015/11/10/mcmc-sampling/ </br>
 [2] https://arxiv.org/pdf/1504.01896.pdf </br>
 [3] http://www.mit.edu/~ilkery/papers/GibbsSampling.pdf </br>
-[4] https://docs.google.com/viewer?a=v&pid=sites&srcid=ZGVmYXVsdGRvbWFpbnxiYXllc2VjdHxneDplNGY0MDljNDA5MGYxYTM </br>
-[5] http://fourier.eng.hmc.edu/e161/lectures/gaussianprocess/node7.html
+[4] https://theclevermachine.wordpress.com/2012/11/05/mcmc-the-gibbs-sampler/ </br>
+[5] https://docs.google.com/viewer?a=v&pid=sites&srcid=ZGVmYXVsdGRvbWFpbnxiYXllc2VjdHxneDplNGY0MDljNDA5MGYxYTM </br>
+[6] http://fourier.eng.hmc.edu/e161/lectures/gaussianprocess/node7.html
